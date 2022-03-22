@@ -1,8 +1,8 @@
 <h1 align="center">Smart Contract</h1> 
 
-Smart contracts were built for the ease of transfering money between accounts using Ethereum-compatible blockchain. Smart contracts also help automate the transfering process for financial institutions.
+Smart contracts were built with the ease of transfering money between accounts using Ethereum-compatible blockchain. Smart contracts also help automate the transfering process for financial institutions. The advantages of using smart contracts are that the sender and receiver can track the mutual transactions, the audit trail is public and cannot be manipulated, and the ability to send transactions instantaneously without any delay.
 
-This smart contract was build for two users to transact to a joint savings account. Both users can control the account by depositing and withdrawing from the account.
+This smart contract was build for two users to transact to a joint savings account. Both users can control the account by depositing and withdrawing from the account. 
 
 ## Usage
 
